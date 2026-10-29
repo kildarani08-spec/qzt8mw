@@ -4,7 +4,7 @@ This is a small web app I built for the Gridbricks full stack challenge.
 
 The idea is simple. A UK energy company has to buy electricity one day before it's needed. Part of that power comes from wind, so they rely on wind forecasts to decide how much extra to buy. This app shows them which forecast they actually had at decision time, and how accurate those forecasts turned out to be in January 2026.
 
-Live app: (add Vercel link here)
+Live app:   https://qzt8mw-9ow4.vercel.app
 
 ## What you can do in the app
 
